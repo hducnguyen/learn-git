@@ -1,6 +1,6 @@
 print("what")
 
-name = "Duc"
+name = "Huy Duc"
 print("hello " + name)
 
 x = 10
