@@ -6,4 +6,7 @@ print("what")
 def sayHelloToName(name):
     print("hello " + name)
 
+
+sayHelloToName('Duc')
+
 x = 10 
