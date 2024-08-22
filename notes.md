@@ -15,3 +15,6 @@ git checkout <branch-name> (git checkout main): go to the latest commit on branc
 git clone - download any repo on github
 
 git pull - update latest change from the remote repository
+
+git checkout -b <branch-name>: example `git checkout -b test-version2`
+
